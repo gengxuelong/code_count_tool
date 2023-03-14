@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="code_count_tool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/code_count_tool_jar</output-path>
+    <root id="archive" name="code_count_tool.jar">
+      <element id="module-output" name="code_count_tool" />
+    </root>
+  </artifact>
+</component>
